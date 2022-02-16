@@ -2,7 +2,6 @@ package Akka.lightbend
 
 import Akka.lightbend.CoffeeHouse.CreateGuest
 import akka.actor.{Actor, ActorLogging, ActorRef, ActorSystem, Props}
-
 import java.util.concurrent.TimeUnit
 import scala.concurrent.duration._
 

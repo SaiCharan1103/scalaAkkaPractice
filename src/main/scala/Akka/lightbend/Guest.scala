@@ -2,7 +2,6 @@ package Akka.lightbend
 
 import Akka.lightbend.Guest.CoffeeFinished
 import akka.actor.{Actor, ActorLogging, ActorRef, Props, Timers}
-
 import scala.concurrent.duration.FiniteDuration
 
 object Guest{
