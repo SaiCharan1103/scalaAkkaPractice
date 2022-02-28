@@ -23,3 +23,15 @@ libraryDependencies += "com.typesafe.akka" %% "akka-http" % "10.2.7"
 libraryDependencies += "com.typesafe.akka" %% "akka-stream" % "2.6.18"
 //akka-http-spray-json
 libraryDependencies += "com.typesafe.akka" %% "akka-http-spray-json" % "10.2.7"
+//akka-alpakka-mongodb
+libraryDependencies += "com.lightbend.akka" %% "akka-stream-alpakka-mongodb" % "3.0.4"
+//slf4j
+libraryDependencies += "com.typesafe.akka" %% "akka-slf4j" % "2.6.18"
+//mysql
+libraryDependencies += "mysql" % "mysql-connector-java" % "8.0.25"
+//alpakka-stream-Slick
+libraryDependencies += "com.lightbend.akka" %% "akka-stream-alpakka-slick" % "3.0.4"
+//simple mongo
+libraryDependencies += "com.sfxcode.nosql" %% "simple-mongo" % "2.2.7"
+//akka-http-circe
+libraryDependencies += "de.heikoseeberger" %% "akka-http-circe" % "1.39.2"
